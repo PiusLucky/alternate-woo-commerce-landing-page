@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.gradient {
+  background: linear-gradient(
+    180deg,
+    rgba(236, 240, 253, 0) 0%,
+    rgba(236, 240, 253, 0.53) 14.32%,
+    #ecf0fd 45.83%,
+    rgba(236, 240, 253, 0.43) 84.33%,
+    rgba(236, 240, 253, 0) 100%
+  );
+}
+
+.cli-path {
+  clip-path: polygon(
+    31% 9%,
+    73% 10%,
+    100% 0,
+    100% 100%,
+    74% 93%,
+    25% 94%,
+    0 100%,
+    0 0
+  );
+}
+
+.primary-bg {
+  background-image: url("../../public/images/rectangular_primary.png");
+}
+
+.card-shadow {
+  box-shadow: 0px 18px 52.854px 0px rgba(215, 228, 249, 0.5);
+}

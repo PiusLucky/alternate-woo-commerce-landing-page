@@ -9,13 +9,14 @@ export const metadata: Metadata = {
 }
 
 
-const ageo = localFont({
+const circularStd = localFont({
   src: [
     {
       path: '../../public/font/circular-std.ttf',
     },
   ],
 })
+
 
 
 export default function RootLayout({
@@ -25,7 +26,7 @@ export default function RootLayout({
 }) {
   return (   
     <html lang="en">
-      <body  className={ageo.className} >{children}</body>
+      <body  className={circularStd.className} >{children}</body>
     </html>
   )
 }
