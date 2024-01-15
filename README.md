@@ -6,7 +6,7 @@ An alternate woocommerce landing page built with Next14, Shadcn, and Tailwind.
 https://alternate-woo-commerce-landing-page.vercel.app/
 
 
-Youtube:  
+Youtube:  https://youtu.be/7GpnOkeiK7M
 
 
 Figma:  https://www.figma.com/file/Wrcb4XWAWhrDCRlip4Fzpu/Woo-Landing-(Community)?type=design&node-id=0-1&mode=design&t=FCsWILcvbs6DqHAa-0
